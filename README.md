@@ -32,6 +32,12 @@ pip install -r config/requirements.txt
 python scripts/server.py
 ```
 
+4. Run the Home Page:
+
+```bash
+python scripts/Home.py
+```
+
 ## 📄 Reports and Documentation
 
 You can find the project reports and plagiarism certificate under the `docs/` directory.
