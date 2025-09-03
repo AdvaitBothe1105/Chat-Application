@@ -1,7 +1,7 @@
 
-# Chat Application Project
+# Chat Application 
 
-This is a structured version of a Chat Application project with GUI support and multiple build pages. The project includes authentication features, emoji support, and OTP verification.
+A Python-based chat application with GUI, user authentication, OTP verification, and emoji support — built with a modular architecture for scalability.
 
 ## 📁 Project Structure
 
